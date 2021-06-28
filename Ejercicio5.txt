@@ -2,4 +2,4 @@
 Marcela,Aguirre,12-02-1999,54321.08
 Carlos,Sanchez,20-10-1988,65432.08
 Natalia,Benitez,20-03-1984,44444.08
-Lucia Vania,12-04-1985,43678.050Sandro,Soto,05-08-1988,33333.50
+Lucia Vania,12-04-1985,43678.05Sandro,Soto,05-08-1988,33333.50
